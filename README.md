@@ -26,7 +26,6 @@ Para a instalação do ambiente na amazon utilizando o recurso é preciso:
 	- Acesse o diretório aws-ecs-challenge-sre-2023
    - Dento do diretório verifique o arquivo main.tf, nele verifique a linha que contem a informação "image":
        "image"     : "ogjunior07/sre:1.0", -> Indica o repositório no DockerHub/Imagem:TAG que será baixada para a ciração do container.
-       ![image](https://user-images.githubusercontent.com/130579714/234587317-9306b3c1-fbe6-4810-93fa-cb5150297f5a.png)
 
        
 		- Dentro do diretório execute:
