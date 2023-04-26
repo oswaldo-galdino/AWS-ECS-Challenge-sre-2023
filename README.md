@@ -18,9 +18,10 @@ Para a instalação do ambiente na amazon utilizando o recurso é preciso:
 	sudo yum -y install terraform  
   
   Para a ultima linha será necessário apertar ENTER!
-    
-	- wget https://github.com/oswaldo-jr/AWS-ECS-Challenge-sre-2023/blob/main/aws-ecs-challenge-sre-2023.zip
   
+  	- wget https://challenge-sre-2023s.s3.amazonaws.com/aws-ecs-challenge-sre-2023.zip
+    
+	 
   - Descompacte o arquivo com unzip aws-ecs-challenge-sre-2023.zip
 	- Altere as permissões do diretório com chmod +x aws-ecs-challenge-sre-2023
 	- Acesse o diretório aws-ecs-challenge-sre-2023
